@@ -13,9 +13,9 @@ Prof. Erez Karpas, Technion
 
 ## Members of the Board (VAAD) ##
 
-* Dr. Ofra Amir, Technion
+* Prof. Ofra Amir, Technion
 * Dr. Segev Wasserkrug, IBM
-* Dr. Tal Grinshpoun, Ariel University
+* Prof. Tal Grinshpoun, Ariel University
 * Dr. Omer Lev, Ben Gurion University
 
 
