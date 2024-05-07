@@ -25,12 +25,12 @@ author: karpase
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://IsraeliAssociationAI.github.io'
-baseurl: '/responsivesite'
+url: 'https://iaai.org.il'
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/IsraeliAssociationAI/responsivesite/edit/gh-pages
+improve_content: https://github.com/IsraeliAssociationAI//israeliassociationai.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/IsraeliAssociationAI/responsivesite/edit/gh-
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://IsraeliAssociationAI.github.io/responsivesite/images/'
+urlimg: 'https://IsraeliAssociationAI.github.io/israeliassociationai.github.io/images/'
 
 
 # Logo size is 600x80 pixels
