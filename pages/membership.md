@@ -9,10 +9,10 @@ permalink           : "/membership/"
 
 IAAI offers several types of membership:
 
-* Individual membership for 1 year (60 NIS)
-* Student membership for 1 year (30 NIS) - for students only
-* Gold membership - membership for an entire research group (1 PI and all students) for 5 years (1000 NIS)
-* Platinum membership - membership for an entire research group (1 PI and all students) for 10 years (2000 NIS)
+* Individual membership for 1 year (100 NIS)
+* Student membership for 1 year (50 NIS) - for students only
+* Gold membership - membership for an entire research group (1 PI and all students) for 5 years (2000 NIS)
+* Platinum membership - membership for an entire research group (1 PI and all students) for 10 years (4000 NIS)
 
  
 
