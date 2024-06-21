@@ -11,7 +11,7 @@ permalink           : "/events/"
 
 ## Future Events
 
-* To be announced
+* [IAAI 2024](events/iaai2024), the annual IAAI conference, will take place September 24th, 2024, at the College of Management Academic Studies, Rishon LeTsiyon
   
 ## Past Events
 
