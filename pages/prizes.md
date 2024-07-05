@@ -12,6 +12,8 @@ permalink           : "/prizes/"
 
 The Israeli Association for Artificial Intelligence (IAAI) established the IAAI Doctoral Dissertation Award program in 2018 to recognize superior research and writing by doctoral candidates in Israel studying Artificial Intelligence.
 
+* 2024
+  * [Call for nominations](https://iaai.org.il/best_dissertation_call_for_nominations/)
 
 * 2023
   * Winner: Dr. Roei Herzig, Tel Aviv University. PhD thesis: Towards Compositionality in Computer Vision. Advised by Prof. Amir Globerson​
