@@ -31,8 +31,3 @@ Nominations to include the following in pdf format:
 ​
 Nominations can be uploaded at this [link](https://forms.gle/u7cFB9kMoCfTbYCL9).  
 Please use a single pdf file for all materials. Recommendation letters may be submitted separately using the same link.
-
-
-Sincerely, 
-
-Erez Karpas, Chairperson, IAAI.
