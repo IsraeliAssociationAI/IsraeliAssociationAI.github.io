@@ -15,5 +15,9 @@ For more information about becoming an IAAI member, see [membership](membership/
 
 For more information about IAAI events, see [events](events/)
 
+Please join our [mailing List](https://groups.google.com/g/israeliassociationai) for updates
+
+
+
 
 
