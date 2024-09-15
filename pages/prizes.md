@@ -13,8 +13,8 @@ permalink           : "/prizes/"
 The Israeli Association for Artificial Intelligence (IAAI) established the IAAI Doctoral Dissertation Award program in 2018 to recognize superior research and writing by doctoral candidates in Israel studying Artificial Intelligence.
 
 * 2024
-  * Winner: Dr. Alon Jacovi, Bar-Ilan University. PhD thesis: Explaining Artificial Intelligence: Foundations and Practice. Advised by Prof. Yoav Goldberg​
-  * Runner-up: Dr. Shauli Ravfogrl, Bar-Ilan University. PhD thesis: Analyzing, Interpreting, and Controlling Language Model Representations. Advised by Prof. Yoav Goldberg.
+  * Winner: Dr. Shauli Ravfogrl, Bar-Ilan University. PhD thesis: Analyzing, Interpreting, and Controlling Language Model Representations. Advised by Prof. Yoav Goldberg.
+  * Runner-up: Dr. Alon Jacovi, Bar-Ilan University. PhD thesis: Explaining Artificial Intelligence: Foundations and Practice. Advised by Prof. Yoav Goldberg​
   * Committee members:  Claudia Goldman, Roi Reichart
   * Prize sponsored by Google
 
