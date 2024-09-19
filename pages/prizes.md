@@ -16,13 +16,13 @@ The Israeli Association for Artificial Intelligence (IAAI) established the IAAI 
   * Winner: Dr. Shauli Ravfogel, Bar-Ilan University. PhD thesis: Analyzing, Interpreting, and Controlling Language Model Representations. Advised by Prof. Yoav Goldberg.
   * Runner-up: Dr. Alon Jacovi, Bar-Ilan University. PhD thesis: Explaining Artificial Intelligence: Foundations and Practice. Advised by Prof. Yoav Goldberg​
   * Committee members:  Claudia Goldman, Roi Reichart
-  * Prize money donated by Google
+  * Prize sponsored by Google
 
 * 2023
   * Winner: Dr. Roei Herzig, Tel Aviv University. PhD thesis: Towards Compositionality in Computer Vision. Advised by Prof. Amir Globerson​
   * Runner-up: Dr. Yanai Elazar, Bar-Ilan University. PhD thesis: Revealing Capabilities of Language Models. Advised by Prof. Yoav Goldberg.
   * Committee members:   Gilad Katz, Segev Wasserkrug
-  * Prize money donated by Google
+  * Prize sponsored by Google
 
 * 2022
   * Winner: Dr. Leshem Choshen, Hebrew University of Jerusalem. PhD thesis: Improving Neural Machine Translation using Semantic Structure. Advised by Prof. Omri Abend​
