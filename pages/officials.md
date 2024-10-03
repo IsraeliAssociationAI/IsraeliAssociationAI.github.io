@@ -9,14 +9,14 @@ permalink           : "/officials/"
 
 ## Chairperson: ##
 
-Prof. Erez Karpas, Technion
+Prof. Tal Grinshpoun, Ariel University
 
 ## Members of the Board (VAAD) ##
 
 * Prof. Ofra Amir, Technion
-* Dr. Segev Wasserkrug, IBM
-* Prof. Tal Grinshpoun, Ariel University
 * Dr. Omer Lev, Ben Gurion University
+* Dr. Ayal Taitler, Ben Gurion University
+* Dr. Segev Wasserkrug, IBM
 
 
 ## Audit Committee (VAADAT BIKORET) ##
