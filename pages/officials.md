@@ -9,7 +9,7 @@ permalink           : "/officials/"
 
 ## Chairperson: ##
 
-Prof. Tal Grinshpoun, Ariel University
+Prof. Tal Grinshpoun, Ariel University   
 
 ## Members of the Board (VAAD) ##
 
